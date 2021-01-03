@@ -1,3 +1,3 @@
 ## Your place for movie recommendations
 --
-![img](https://ibb.co/PNN7DV5)
+![img](https://i.ibb.co/zbVmmNt/smartmockups-kjgepuur.png)
