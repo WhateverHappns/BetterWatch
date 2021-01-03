@@ -1,7 +1,7 @@
 ## Your place for movie recommendations
 ---
 
-## [Our Privacy Policy](https://betterwatch.ml/privacy)
+## [Our Privacy Policy](www.betterwatch.ml/privacy)
 
 
 
