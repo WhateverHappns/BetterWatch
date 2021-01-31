@@ -3,3 +3,5 @@ title: Watch better movies!
 email: bw-dev@gmail.com
 description: BetterWatch is a mobile app which lets you match movies with your friends and family so you can find movies/TV shows to watch together.
 base_url: "/BetterWatch"
+github:
+  is_project: false
