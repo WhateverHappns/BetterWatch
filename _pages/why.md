@@ -1,3 +1,11 @@
+---
+layout: page
+title: Why use BetterWatch?
+include_in_header: false
+---
+  
+February 1, 2021
+
 # Why use BetterWatch?
 
 With the continuous development of network technology and the ever-expanding scale of e-commerce, the number and variety of goods grow rapidly and users need to spend a lot of time to find the goods they want to buy. This is information overload. In order to solve this problem, recommendation system came into being.
