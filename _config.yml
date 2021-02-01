@@ -133,6 +133,9 @@ exclude:
 base_url: "/BetterWatch"
 
 collections:
+  pagesfooter:
+    output: true
+    permalink: /:path/
   pages:
     output: true
     permalink: /:path/
