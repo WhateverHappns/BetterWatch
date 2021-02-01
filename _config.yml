@@ -12,7 +12,7 @@ presskit_download_link                    : https://whateverhappns.github.io    
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : BetterWatch                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Powerful AI-Powered Recommendations
+app_description                           : Personalized, AI-Powered Recommendations
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,17 +34,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Get personalized recommendations
+  - title                                 : Get Personalized Recommendations
     description                           : Our state-of-the-art AI recommendation system gives insanely accurate recommendations tailored to your liking.
     fontawesome_icon_name                 : magic
     
-  - title                                 : Our promise
+  - title                                 : Our Promise
     description                           : The purpose of BetterWatch is to reduce your time spent mindlessly scrolling on netflix. We focus on novelty over accuracy, meaning you won't be seeing the same shows all the time.
     fontawesome_icon_name                 : film
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Matching
+    description                           : Create sessions with your friends & family and build a list of matched movies. Don't waste your precious time together deciding what to watch.
+    fontawesome_icon_name                 : user-friends
 
   - title                                 : Automatic Icon and Metadata
     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
@@ -66,13 +66,9 @@ features                                  :
     description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Detailed Descriptions
+    description                           : See detailed movie & TV show descriptions with actors, seasons, providers (e.g. Netflix), trailers, genres and more. 
     fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
