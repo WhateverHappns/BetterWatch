@@ -132,6 +132,8 @@ exclude:
   - README.md
   - CNAME
 
+base_url: "/BetterWatch"
+
 collections:
   pages:
     output: true
