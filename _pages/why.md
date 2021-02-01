@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Why use BetterWatch?
-include_in_header: false
+include_in_header: true
 ---
   
 February 1, 2021
