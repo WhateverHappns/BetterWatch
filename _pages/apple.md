@@ -1,7 +1,7 @@
 ---
-title: Download BetterWatch for Apple
-include_in_header: false
 layout: page
+include_in_header: false
+title: Download BetterWatch for Apple
 ---
 
 # Download BetterWatch for Apple
