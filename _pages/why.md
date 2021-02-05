@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why use BetterWatch?
+title: Why?
 include_in_header: true
 ---
   
