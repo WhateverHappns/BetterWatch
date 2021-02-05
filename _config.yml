@@ -1,7 +1,7 @@
 #page title
 page_title                                : BetterWatch                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
-google_analytics                          : G-2Y2GT999E2
+google_analytics                          : G-3YH5T349NQ
 
 # App Info
 ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
